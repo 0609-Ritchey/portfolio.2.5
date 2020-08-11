@@ -75,8 +75,7 @@ a {
   width: 100%;
   background-position: center;
   background-size: 180%;
-  background-repeat: no-repeat;
-  box-shadow: inset 0px 0px 30px 30px #ffffff; }
+  background-repeat: no-repeat; }
   .about-ttl h2 {
     font-size: 40px;
     text-align: center;
