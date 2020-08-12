@@ -39,6 +39,7 @@ a {
 }
 .header-ttl a {
   color: black;
+  font-family: "Roboto", sans-serif;
 }
 .header-list {
   display: flex;
