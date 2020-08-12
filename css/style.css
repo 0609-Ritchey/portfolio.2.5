@@ -35,6 +35,7 @@ a {
   align-items: center;
   height: 100%;
   font-size: 48px;
+  font-family: "Roboto", sans-serif;
 }
 .header-ttl a {
   color: black;
@@ -57,6 +58,7 @@ a {
   font-weight: bold;
   display: flex;
   align-items: center;
+  font-family: "Roboto", sans-serif;
 }
 .header-list img {
   margin-right: 10px;
@@ -100,6 +102,7 @@ a {
   text-align: center;
   margin-top: 200px;
   margin-bottom: 50px;
+  font-family: "Roboto", sans-serif;
 }
 .about-inner {
   max-width: 1024px;
@@ -251,6 +254,7 @@ a {
 }
 .footer-ttl h2 {
   font-size: 38px;
+  font-family: "Roboto", sans-serif;
 }
 .footer-ttl small {
   padding-right: 10px;
