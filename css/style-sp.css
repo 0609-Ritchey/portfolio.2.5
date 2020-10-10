@@ -218,12 +218,14 @@
     font-size: 8px;
     border: solid 1px #0084e9;
     color: #0084e9;
+    word-break: keep-all;
   }
 
   .red {
     font-size: 8px;
     border: solid 1px #fc3131;
     color: #fc3131;
+    word-break: keep-all;
   }
 
   .footer {
